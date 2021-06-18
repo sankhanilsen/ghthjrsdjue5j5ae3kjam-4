@@ -1,0 +1,38 @@
+.heading {
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    font-weight: bold;
+    box-shadow: 15px 15px 20px black;
+}
+
+.note {
+    font-size: 15px;
+    color: beige;
+    font-weight: bold;
+}
+
+body {
+    background-size: cover;
+}
+
+canvas {
+    border: 5px solid cyan;
+    border-radius: 15px;
+    margin: 0px;
+}
+
+.div_song_img {
+    border-radius: 100px;
+    margin-top: 7px;
+}
+
+.div_song {
+    float: left;
+}
+
+#song {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
